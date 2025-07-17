@@ -38,23 +38,23 @@ This is a *Spring Boot CRUD application* to manage student records using *Spring
 
 ### ✅ Create Student
 
-![Create Student](screenshots/create.PNG)
+![Create Student](screenshorts/create.PNG)
 
 ### 📋 Get All Students
 
-![Get All Students](screenshots/read.PNG)
+![Get All Students](screenshorts/read.PNG)
 
 ### 🔍 Get Student By ID
 
-![Get Student By ID](screenshots/get_student_by_id.png)
+![Get Student By ID](screenshorts/get_student_by_id.png)
 
 ### 🔁 Update Student
 
-![Update Student](screenshots/update.PNG)
+![Update Student](screenshorts/update.PNG)
 
 ### ❌ Delete Student
 
-![Delete Student](screenshots/delete.PNG)
+![Delete Student](screenshorts/delete.PNG)
 
 ---
 
