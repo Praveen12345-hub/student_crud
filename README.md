@@ -15,20 +15,10 @@ This is a *Spring Boot CRUD application* to manage student records using *Spring
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure 
 
-om.crud.student
-├── controller
-│ └── StudentController.java
-├── model
-│ └── Student.java
-├── service
-│ └── StudentService.java
-│ └── StudentServiceImpl.java
-├── repository
-│ └── StudentRepository.java
-└── StudentCrudApplication.java 
----
+![Create Student](screenshorts/project_structure.jpg)
+
 
 ## ⚙ API Endpoints
 
