@@ -38,7 +38,7 @@ This is a *Spring Boot CRUD application* to manage student records using *Spring
 
 ### ✅ Create Student
 
-![Create Student](screenshorts/create.PNG)
+![Create Student](screenshorts/create.png)
 
 ### 📋 Get All Students
 
